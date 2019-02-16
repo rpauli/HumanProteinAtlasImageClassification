@@ -1,6 +1,6 @@
 # HumanProteinAtlasImageClassification
 
-##The Idea of this Kernel
+## The Idea of this Kernel
 
 In this kernel I largely merged the fastai v1 starter by Horton and the fastai-RGBY by iafoss. I (in my opinion) simplified some stuffabout the dataset and loading. I added:
 
