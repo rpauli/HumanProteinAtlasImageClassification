@@ -1,4 +1,4 @@
-# HumanProteinAtlasImageClassification
+# [https://www.kaggle.com/guntherthepenguin/fastaiv1-weighted-loss-oversampling](HumanProteinAtlasImageClassification)
 
 ## The Idea of this Kernel
 
